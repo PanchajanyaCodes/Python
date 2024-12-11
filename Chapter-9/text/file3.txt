@@ -1,0 +1,3 @@
+Hello World!
+Programming in Python is really fun.
+Python is my first programming language.
